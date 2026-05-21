@@ -1,5 +1,5 @@
 name: runtut_currency_input_formatter
-description: 'A lightweight, configurable currency input formatter for Flutter. Set your own thousand and decimal separators — built for real-world currency input.'
+description: 'A lightweight Flutter package for formatting currency input fields. Pass a locale and an ISO 4217 currency code — separators and decimal digits are derived automatically.'
 version: 0.1.0
 homepage: https://github.com/runtutapp/runtut_currency_input_formatter
 
